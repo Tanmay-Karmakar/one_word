@@ -63,7 +63,9 @@
   ```bash
   python3 start_st_bb_attack.py --model_name Luyu --attack_dataset trec_dl_2019 --save_file_name boo_01 --previous_done 15
   ```
-  
+   ```bash
+  python3 sim_st_bb_attack.py --model_name Luyu --attack_dataset trec_dl_2019 --save_file_name boo_01 --previous_done 15
+  ```
   
   
     
