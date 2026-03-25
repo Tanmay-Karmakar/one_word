@@ -42,7 +42,7 @@ We study **minimal adversarial perturbations**, showing that even extremely smal
 Experiments are conducted on standard datasets such as:
 
 - TREC Deep Learning (DL) 2019, 2020 passage ranking
-- MS MARCO Dev  
+- MS MARCO Dev 200 Queries 
 
 ---
 
@@ -56,6 +56,7 @@ one_word/
 │── attack.py           # adversarial attack logic
 │── evaluate.py         # evaluation scripts
 │── requirements.txt
+│── ...
 ```
 ---
 
