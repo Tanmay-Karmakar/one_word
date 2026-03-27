@@ -1,4 +1,4 @@
-# One Word Is Enough
+# One Word Is Enough for Manipulating Text Ranking
 
 Official implementation of the ECIR 2026 paper:
 
